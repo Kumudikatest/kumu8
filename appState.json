@@ -1,0 +1,72 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "c8b8930e-0077-4b2d-b558-c2ab1c4f9f4d": {
+        "id": "c8b8930e-0077-4b2d-b558-c2ab1c4f9f4d",
+        "parent": null,
+        "name": "kumu8.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "kumu8.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "kumu8"
+        },
+        "triggers": [],
+        "lastUpdated": 1615187030887
+      }
+    },
+    "openFiles": [
+      "c8b8930e-0077-4b2d-b558-c2ab1c4f9f4d"
+    ],
+    "currentFileId": "c8b8930e-0077-4b2d-b558-c2ab1c4f9f4d",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.7.0",
+    "projectName": "kumu8",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1615187042875
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "kumu8",
+      "url": "https://github.com/Kumudikatest/kumu8"
+    }
+  }
+}
